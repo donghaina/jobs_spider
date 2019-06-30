@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/.scrapy/
+news_spider/spiders/__pycache__/
+news_spider/__pycache__/
+result.txt
+spider.log
